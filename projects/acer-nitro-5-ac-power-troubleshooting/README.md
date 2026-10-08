@@ -66,4 +66,10 @@ Future testing will include:
 
 ## Status
 
-**In Progress**
+**Conclusion**
+
+Testing the Acer Nitro 5 with the internal battery disconnected and the correct AC adapter connected produced no charging LED, power LED, fan activity, or other signs of startup.
+
+The AC adapter was previously functioning normally with the laptop before the sudden shutdown. Combined with the confirmed near-zero-resistance short on the motherboard's battery power rail, the evidence indicates that the laptop's motherboard power circuitry is preventing normal AC power operation.
+
+The AC adapter itself was not identified as the primary cause. The exact motherboard component responsible for the electrical failure was not isolated.
