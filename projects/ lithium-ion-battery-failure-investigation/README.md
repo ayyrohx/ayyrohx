@@ -48,4 +48,4 @@ Both batteries were kept disconnected while the laptop diagnosis continued.
 
 **Investigation in Progress**
 
-The exact cause of the battery failures has not been established.
+The Acer Nitro 5 AN515-55 experienced a catastrophic electrical failure on the motherboard's battery power circuit. A near-zero-resistance reading was measured across the battery power rail with the system unpowered, confirming a hard short circuit. Physical evidence around the battery compartment, the sudden shutdown under load, and the complete lack of power afterward support the diagnosis. The exact failed motherboard component was not isolated.
